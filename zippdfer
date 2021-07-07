@@ -1,0 +1,4 @@
+#!/bin/bash
+
+. ziper.sh
+. pdfer.sh
