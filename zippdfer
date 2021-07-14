@@ -1,4 +1,5 @@
 #!/bin/bash
 
-. ziper.sh
-. pdfer.sh
+. unziper.sh
+. unrarer.sh
+. topdfer.sh
